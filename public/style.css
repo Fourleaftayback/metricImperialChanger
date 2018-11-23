@@ -1,0 +1,12 @@
+body {
+  background-color: black;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+}
+
+input {
+  font-size: 15px;
+}
