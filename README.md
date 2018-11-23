@@ -3,7 +3,7 @@
 
 This page converts metric or imperial input to corresponing units. Prevents the client from trying to guess(sniff) the MIME type. Prevents cross-site scripting (XSS) attacks.
 
-####User Stories
+User Stories
 
 1. I will help prevent the client from trying to guess(sniff) the MIME type.
 2. I will prevent cross-site scripting (XSS) attacks.
